@@ -9,5 +9,6 @@
 <body>
     <h2>INDEX</h2>
     <div>test</div>
+    <div>test</div>
 </body>
 </html>
